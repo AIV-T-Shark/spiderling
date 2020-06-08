@@ -2,6 +2,7 @@
 
 /vendor/
 /build/
+.idea
 
 # Local configuration
 /phpunit.xml
